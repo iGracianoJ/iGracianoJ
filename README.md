@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/iGracianoJ">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&hide_border=true&area=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=iGracianoJ&theme=react-dark&hide_border=true&area=true"
       alt="GitHub Activity Graph"
     />
   </a>
