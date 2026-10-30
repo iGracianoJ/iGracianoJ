@@ -1,5 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Streak Snake" src="https://githubusercontent.com">
-</picture>
+<div align="center">
+  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
